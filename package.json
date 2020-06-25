@@ -1,0 +1,13 @@
+{
+    "name": "clx-lighthouse-action",
+    "version": "0.0.0",
+    "description": "Run Lighthouse in CI using Github Actions",
+    "repository": "treosh/lighthouse-ci-action",
+    "dependencies": {
+        "@actions/artifact": "^0.3.2",
+        "@actions/core": "^1.2.4",
+        "@actions/github": "^2.2.0",
+        "@lhci/cli": "0.4.0",
+        "@lhci/utils": "^0.4.0"
+    }
+}
